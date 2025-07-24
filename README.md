@@ -5,7 +5,7 @@ Welcome to my CAD Portfolio a curated showcase of my 3D design work, both solo a
 
 
 **Software Used**
-- Fusion 360: Primary 3D design,modeling, assembly, and rendering 
+- Fusion 360: Primary 3D design, modeling, assembly, and rendering 
 
 **Mechanical Components**
 - Custom mechanical assemblies
