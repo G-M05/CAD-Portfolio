@@ -1,5 +1,7 @@
 **This portfolio is actively being developed. More projects and documentation will be added soon.**
 
+Computer engineering student and hardware design engineer working on embedded systems and robotics projects.
+
 Welcome to my CAD Portfolio a curated showcase of my 3D design work, both solo and collaborative. Here you’ll find parametric models, detailed renders, and documentation for each project.
 
 
